@@ -1,0 +1,6 @@
+Reflections from Lession 1:
+
+I am not good with terminal commands
+
+Having access to the history of a file makes it easier
+to find changes and chase down bugs
