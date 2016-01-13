@@ -1,3 +1,5 @@
 You need to create a git repository to do version control in a particular directory
 
 The staging area acts as a separate group of files that you add to from the working directory, before committing to the repository. This allows you to be selective about what files to commit, and when.
+
+You can use the staging area to make sure you have one commit per logical change by adding files as you work, and checking as you go so you can decide when to actually commit it?
