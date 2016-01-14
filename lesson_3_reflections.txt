@@ -1,0 +1,1 @@
+One reason you'd want a remote repository rather than keeping all your files local is to make sure you have a copy of the code in case something happens to the local files.
