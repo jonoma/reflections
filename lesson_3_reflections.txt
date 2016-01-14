@@ -1,1 +1,3 @@
 One reason you'd want a remote repository rather than keeping all your files local is to make sure you have a copy of the code in case something happens to the local files.
+
+You wouldn't want your remote repository to update automatically because you may only want to do this when you're ready for your changes to become public
